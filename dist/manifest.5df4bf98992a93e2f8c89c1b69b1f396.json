@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.de0685a11795ea291fd351fec80ed87d.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.b105bbd1c5c7e99d35ae2c04c57bb0c9.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.c90ee885e24cf6d8e76ef867491c7060.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.53c015c6a75c6f18d46edd0e85bf2d21.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.d0f7abb71e6148b959ade974d0677bbd.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.6020e92e4065578d812ad315e5d80865.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Katalog Restoran PWA + Testing and Performance Optimized",
+  "short_name": "Cari Resto",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "src/templates/index.html",
+  "description": "Cari restoran terbaik untuk teman, keluarga dan diri anda!",
+  "background_color": "#ffffff",
+  "theme_color": "#c1002d"
+}
