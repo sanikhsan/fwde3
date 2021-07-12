@@ -3,8 +3,8 @@
   "warnings": [],
   "version": "4.46.0",
   "hash": "97a898bc1c8b194398ff",
-  "time": 21616,
-  "builtAt": 1626073145851,
+  "time": 30519,
+  "builtAt": 1626078203910,
   "publicPath": "",
   "outputPath": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\dist",
   "assetsByChunkName": {
@@ -1510,9 +1510,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/views/pages/detail.js",
+              "issuerName": "./src/scripts/views/pages/home.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -1531,8 +1531,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
+                  "name": "./src/scripts/views/pages/home.js"
                 }
               ],
               "failed": false,
@@ -1551,18 +1551,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-                  "module": "./src/scripts/views/pages/detail.js",
-                  "moduleName": "./src/scripts/views/pages/detail.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
+                  "module": "./src/scripts/views/pages/home.js",
+                  "moduleName": "./src/scripts/views/pages/home.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../../data/restaurant-source",
                   "loc": "5:0-64"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
-                  "module": "./src/scripts/views/pages/home.js",
-                  "moduleName": "./src/scripts/views/pages/home.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
+                  "module": "./src/scripts/views/pages/detail.js",
+                  "moduleName": "./src/scripts/views/pages/detail.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../../data/restaurant-source",
                   "loc": "5:0-64"
@@ -1862,9 +1862,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\favorite.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/views/pages/detail.js",
+              "issuerName": "./src/scripts/views/pages/favorite.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -1883,8 +1883,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\favorite.js",
+                  "name": "./src/scripts/views/pages/favorite.js"
                 }
               ],
               "failed": false,
@@ -2160,9 +2160,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-detail-template-creator.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-template-creator.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/views/templates/item-detail-template-creator.js",
+              "issuerName": "./src/scripts/views/templates/item-template-creator.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -2181,13 +2181,13 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
+                  "name": "./src/scripts/views/pages/home.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-detail-template-creator.js",
-                  "name": "./src/scripts/views/templates/item-detail-template-creator.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-template-creator.js",
+                  "name": "./src/scripts/views/templates/item-template-creator.js"
                 }
               ],
               "failed": false,
@@ -2197,18 +2197,18 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-detail-template-creator.js",
-                  "module": "./src/scripts/views/templates/item-detail-template-creator.js",
-                  "moduleName": "./src/scripts/views/templates/item-detail-template-creator.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-template-creator.js",
+                  "module": "./src/scripts/views/templates/item-template-creator.js",
+                  "moduleName": "./src/scripts/views/templates/item-template-creator.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../../globals/config",
                   "loc": "1:0-42"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-template-creator.js",
-                  "module": "./src/scripts/views/templates/item-template-creator.js",
-                  "moduleName": "./src/scripts/views/templates/item-template-creator.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-detail-template-creator.js",
+                  "module": "./src/scripts/views/templates/item-detail-template-creator.js",
+                  "moduleName": "./src/scripts/views/templates/item-detail-template-creator.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../../globals/config",
                   "loc": "1:0-42"
@@ -2364,8 +2364,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
+                  "name": "./src/scripts/views/pages/home.js"
                 },
                 {
                   "id": null,
@@ -2933,9 +2933,9 @@
           "chunks": [
             3
           ],
-          "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\layout.css",
-          "issuerId": 18,
-          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/layout.css",
+          "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\main.css",
+          "issuerId": 12,
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
           "issuerPath": [
             {
               "id": null,
@@ -2943,14 +2943,14 @@
               "name": "./src/scripts/index.js"
             },
             {
-              "id": 17,
-              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\layout.css",
-              "name": "./src/styles/layout.css"
+              "id": 11,
+              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\main.css",
+              "name": "./src/styles/main.css"
             },
             {
-              "id": 18,
-              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\layout.css",
-              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/layout.css"
+              "id": 12,
+              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\main.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css"
             }
           ],
           "failed": false,
@@ -3071,8 +3071,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\favorite.js",
+                  "name": "./src/scripts/views/pages/favorite.js"
                 },
                 {
                   "id": null,
@@ -3149,8 +3149,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\favorite.js",
+                  "name": "./src/scripts/views/pages/favorite.js"
                 },
                 {
                   "id": null,
@@ -3591,9 +3591,9 @@
       "chunks": [
         3
       ],
-      "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\layout.css",
-      "issuerId": 18,
-      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/layout.css",
+      "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\main.css",
+      "issuerId": 12,
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
       "issuerPath": [
         {
           "id": null,
@@ -3601,14 +3601,14 @@
           "name": "./src/scripts/index.js"
         },
         {
-          "id": 17,
-          "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\layout.css",
-          "name": "./src/styles/layout.css"
+          "id": 11,
+          "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\main.css",
+          "name": "./src/styles/main.css"
         },
         {
-          "id": 18,
-          "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\layout.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/layout.css"
+          "id": 12,
+          "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\styles\\main.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css"
         }
       ],
       "failed": false,
@@ -3792,8 +3792,8 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             },
             {
               "id": null,
@@ -3870,8 +3870,8 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             },
             {
               "id": null,
@@ -5251,9 +5251,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
+          "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/pages/detail.js",
+          "issuerName": "./src/scripts/views/pages/home.js",
           "issuerPath": [
             {
               "id": null,
@@ -5272,8 +5272,8 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
+              "name": "./src/scripts/views/pages/home.js"
             }
           ],
           "failed": false,
@@ -5292,18 +5292,18 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-              "module": "./src/scripts/views/pages/detail.js",
-              "moduleName": "./src/scripts/views/pages/detail.js",
+              "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
+              "module": "./src/scripts/views/pages/home.js",
+              "moduleName": "./src/scripts/views/pages/home.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../../data/restaurant-source",
               "loc": "5:0-64"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
-              "module": "./src/scripts/views/pages/home.js",
-              "moduleName": "./src/scripts/views/pages/home.js",
+              "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
+              "module": "./src/scripts/views/pages/detail.js",
+              "moduleName": "./src/scripts/views/pages/detail.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../../data/restaurant-source",
               "loc": "5:0-64"
@@ -5603,9 +5603,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
+          "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\favorite.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/pages/detail.js",
+          "issuerName": "./src/scripts/views/pages/favorite.js",
           "issuerPath": [
             {
               "id": null,
@@ -5624,8 +5624,8 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             }
           ],
           "failed": false,
@@ -5901,9 +5901,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-detail-template-creator.js",
+          "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-template-creator.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/templates/item-detail-template-creator.js",
+          "issuerName": "./src/scripts/views/templates/item-template-creator.js",
           "issuerPath": [
             {
               "id": null,
@@ -5922,13 +5922,13 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
+              "name": "./src/scripts/views/pages/home.js"
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-detail-template-creator.js",
-              "name": "./src/scripts/views/templates/item-detail-template-creator.js"
+              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-template-creator.js",
+              "name": "./src/scripts/views/templates/item-template-creator.js"
             }
           ],
           "failed": false,
@@ -5938,18 +5938,18 @@
           "reasons": [
             {
               "moduleId": null,
-              "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-detail-template-creator.js",
-              "module": "./src/scripts/views/templates/item-detail-template-creator.js",
-              "moduleName": "./src/scripts/views/templates/item-detail-template-creator.js",
+              "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-template-creator.js",
+              "module": "./src/scripts/views/templates/item-template-creator.js",
+              "moduleName": "./src/scripts/views/templates/item-template-creator.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../../globals/config",
               "loc": "1:0-42"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-template-creator.js",
-              "module": "./src/scripts/views/templates/item-template-creator.js",
-              "moduleName": "./src/scripts/views/templates/item-template-creator.js",
+              "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\templates\\item-detail-template-creator.js",
+              "module": "./src/scripts/views/templates/item-detail-template-creator.js",
+              "moduleName": "./src/scripts/views/templates/item-detail-template-creator.js",
               "type": "harmony side effect evaluation",
               "userRequest": "../../globals/config",
               "loc": "1:0-42"
@@ -6105,8 +6105,8 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\src\\scripts\\views\\pages\\home.js",
+              "name": "./src/scripts/views/pages/home.js"
             },
             {
               "id": null,
@@ -8708,18 +8708,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                      "module": "./node_modules/workbox-strategies/NetworkOnly.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
+                      "module": "./node_modules/workbox-strategies/CacheOnly.js",
+                      "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/logger.js",
                       "loc": "35:0-57"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
-                      "module": "./node_modules/workbox-strategies/CacheOnly.js",
-                      "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
+                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                      "module": "./node_modules/workbox-strategies/NetworkOnly.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/logger.js",
                       "loc": "35:0-57"
@@ -11832,9 +11832,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-routing\\Route.js",
+                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-routing\\RegExpRoute.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-routing/Route.js",
+                  "issuerName": "./node_modules/workbox-routing/RegExpRoute.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -11853,8 +11853,8 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-routing\\Route.js",
-                      "name": "./node_modules/workbox-routing/Route.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-routing\\RegExpRoute.js",
+                      "name": "./node_modules/workbox-routing/RegExpRoute.js"
                     }
                   ],
                   "failed": false,
@@ -11945,18 +11945,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                      "module": "./node_modules/workbox-strategies/NetworkOnly.js",
-                      "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
+                      "module": "./node_modules/workbox-strategies/CacheOnly.js",
+                      "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/assert.js",
                       "loc": "34:0-57"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
-                      "module": "./node_modules/workbox-strategies/CacheOnly.js",
-                      "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
+                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                      "module": "./node_modules/workbox-strategies/NetworkOnly.js",
+                      "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/assert.js",
                       "loc": "34:0-57"
@@ -12230,9 +12230,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
+                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\PrecacheRoute.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-precaching/PrecacheStrategy.js",
+                  "issuerName": "./node_modules/workbox-precaching/PrecacheRoute.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -12251,8 +12251,8 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
-                      "name": "./node_modules/workbox-precaching/PrecacheStrategy.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\PrecacheRoute.js",
+                      "name": "./node_modules/workbox-precaching/PrecacheRoute.js"
                     }
                   ],
                   "failed": false,
@@ -12307,18 +12307,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
-                      "module": "./node_modules/workbox-expiration/ExpirationPlugin.js",
-                      "moduleName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
+                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\Strategy.js",
+                      "module": "./node_modules/workbox-strategies/Strategy.js",
+                      "moduleName": "./node_modules/workbox-strategies/Strategy.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/getFriendlyURL.js",
                       "loc": "35:0-73"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\Strategy.js",
-                      "module": "./node_modules/workbox-strategies/Strategy.js",
-                      "moduleName": "./node_modules/workbox-strategies/Strategy.js",
+                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                      "module": "./node_modules/workbox-expiration/ExpirationPlugin.js",
+                      "moduleName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/getFriendlyURL.js",
                       "loc": "35:0-73"
@@ -13223,9 +13223,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
+                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-strategies/StrategyHandler.js",
+                  "issuerName": "./node_modules/workbox-core/_private.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -13234,18 +13234,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.mjs",
-                      "name": "./node_modules/workbox-strategies/index.mjs"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.js",
-                      "name": "./node_modules/workbox-strategies/index.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
-                      "name": "./node_modules/workbox-strategies/StrategyHandler.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     }
                   ],
                   "failed": false,
@@ -13311,9 +13311,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
+                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-strategies/StrategyHandler.js",
+                  "issuerName": "./node_modules/workbox-core/_private.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -13322,18 +13322,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.mjs",
-                      "name": "./node_modules/workbox-strategies/index.mjs"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.js",
-                      "name": "./node_modules/workbox-strategies/index.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
-                      "name": "./node_modules/workbox-strategies/StrategyHandler.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     }
                   ],
                   "failed": false,
@@ -13487,9 +13487,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
+                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-strategies/StrategyHandler.js",
+                  "issuerName": "./node_modules/workbox-core/_private.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -13498,18 +13498,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.mjs",
-                      "name": "./node_modules/workbox-strategies/index.mjs"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.js",
-                      "name": "./node_modules/workbox-strategies/index.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
-                      "name": "./node_modules/workbox-strategies/StrategyHandler.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     }
                   ],
                   "failed": false,
@@ -13575,9 +13575,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "issuerName": "./node_modules/workbox-core/_private.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -13586,18 +13586,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.mjs",
-                      "name": "./node_modules/workbox-strategies/index.mjs"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.js",
-                      "name": "./node_modules/workbox-strategies/index.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                      "name": "./node_modules/workbox-strategies/NetworkOnly.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     }
                   ],
                   "failed": false,
@@ -13749,18 +13749,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\getCacheKeyForURL.js",
-                      "module": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
-                      "moduleName": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
+                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\createHandlerBoundToURL.js",
+                      "module": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
+                      "moduleName": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "./utils/getOrCreatePrecacheController.js",
                       "loc": "8:0-89"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\createHandlerBoundToURL.js",
-                      "module": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
-                      "moduleName": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
+                      "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\getCacheKeyForURL.js",
+                      "module": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
+                      "moduleName": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "./utils/getOrCreatePrecacheController.js",
                       "loc": "8:0-89"
@@ -14017,9 +14017,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheFirst.js",
+                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-strategies/CacheFirst.js",
+                  "issuerName": "./node_modules/workbox-strategies/CacheOnly.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -14038,8 +14038,8 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheFirst.js",
-                      "name": "./node_modules/workbox-strategies/CacheFirst.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
+                      "name": "./node_modules/workbox-strategies/CacheOnly.js"
                     }
                   ],
                   "failed": false,
@@ -14200,9 +14200,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\CacheExpiration.js",
+                  "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-expiration/CacheExpiration.js",
+                  "issuerName": "./node_modules/workbox-core/_private.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -14211,18 +14211,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\index.mjs",
-                      "name": "./node_modules/workbox-expiration/index.mjs"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\index.js",
-                      "name": "./node_modules/workbox-expiration/index.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\CacheExpiration.js",
-                      "name": "./node_modules/workbox-expiration/CacheExpiration.js"
+                      "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     }
                   ],
                   "failed": false,
@@ -16935,18 +16935,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                  "module": "./node_modules/workbox-strategies/NetworkOnly.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
+                  "module": "./node_modules/workbox-strategies/CacheOnly.js",
+                  "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/logger.js",
                   "loc": "35:0-57"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
-                  "module": "./node_modules/workbox-strategies/CacheOnly.js",
-                  "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                  "module": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/logger.js",
                   "loc": "35:0-57"
@@ -20059,9 +20059,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-routing\\Route.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-routing\\RegExpRoute.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-routing/Route.js",
+              "issuerName": "./node_modules/workbox-routing/RegExpRoute.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -20080,8 +20080,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-routing\\Route.js",
-                  "name": "./node_modules/workbox-routing/Route.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-routing\\RegExpRoute.js",
+                  "name": "./node_modules/workbox-routing/RegExpRoute.js"
                 }
               ],
               "failed": false,
@@ -20172,18 +20172,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                  "module": "./node_modules/workbox-strategies/NetworkOnly.js",
-                  "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
+                  "module": "./node_modules/workbox-strategies/CacheOnly.js",
+                  "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/assert.js",
                   "loc": "34:0-57"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
-                  "module": "./node_modules/workbox-strategies/CacheOnly.js",
-                  "moduleName": "./node_modules/workbox-strategies/CacheOnly.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
+                  "module": "./node_modules/workbox-strategies/NetworkOnly.js",
+                  "moduleName": "./node_modules/workbox-strategies/NetworkOnly.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/assert.js",
                   "loc": "34:0-57"
@@ -20457,9 +20457,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\PrecacheRoute.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-precaching/PrecacheStrategy.js",
+              "issuerName": "./node_modules/workbox-precaching/PrecacheRoute.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -20478,8 +20478,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
-                  "name": "./node_modules/workbox-precaching/PrecacheStrategy.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\PrecacheRoute.js",
+                  "name": "./node_modules/workbox-precaching/PrecacheRoute.js"
                 }
               ],
               "failed": false,
@@ -20534,18 +20534,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
-                  "module": "./node_modules/workbox-expiration/ExpirationPlugin.js",
-                  "moduleName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\Strategy.js",
+                  "module": "./node_modules/workbox-strategies/Strategy.js",
+                  "moduleName": "./node_modules/workbox-strategies/Strategy.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/getFriendlyURL.js",
                   "loc": "35:0-73"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\Strategy.js",
-                  "module": "./node_modules/workbox-strategies/Strategy.js",
-                  "moduleName": "./node_modules/workbox-strategies/Strategy.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                  "module": "./node_modules/workbox-expiration/ExpirationPlugin.js",
+                  "moduleName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/getFriendlyURL.js",
                   "loc": "35:0-73"
@@ -21450,9 +21450,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-strategies/StrategyHandler.js",
+              "issuerName": "./node_modules/workbox-core/_private.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -21461,18 +21461,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.mjs",
-                  "name": "./node_modules/workbox-strategies/index.mjs"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.js",
-                  "name": "./node_modules/workbox-strategies/index.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
-                  "name": "./node_modules/workbox-strategies/StrategyHandler.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 }
               ],
               "failed": false,
@@ -21538,9 +21538,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-strategies/StrategyHandler.js",
+              "issuerName": "./node_modules/workbox-core/_private.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -21549,18 +21549,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.mjs",
-                  "name": "./node_modules/workbox-strategies/index.mjs"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.js",
-                  "name": "./node_modules/workbox-strategies/index.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
-                  "name": "./node_modules/workbox-strategies/StrategyHandler.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 }
               ],
               "failed": false,
@@ -21714,9 +21714,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-strategies/StrategyHandler.js",
+              "issuerName": "./node_modules/workbox-core/_private.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -21725,18 +21725,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.mjs",
-                  "name": "./node_modules/workbox-strategies/index.mjs"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.js",
-                  "name": "./node_modules/workbox-strategies/index.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\StrategyHandler.js",
-                  "name": "./node_modules/workbox-strategies/StrategyHandler.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 }
               ],
               "failed": false,
@@ -21802,9 +21802,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-strategies/NetworkOnly.js",
+              "issuerName": "./node_modules/workbox-core/_private.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -21813,18 +21813,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.mjs",
-                  "name": "./node_modules/workbox-strategies/index.mjs"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\index.js",
-                  "name": "./node_modules/workbox-strategies/index.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\NetworkOnly.js",
-                  "name": "./node_modules/workbox-strategies/NetworkOnly.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 }
               ],
               "failed": false,
@@ -21976,18 +21976,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\getCacheKeyForURL.js",
-                  "module": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
-                  "moduleName": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\createHandlerBoundToURL.js",
+                  "module": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
+                  "moduleName": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./utils/getOrCreatePrecacheController.js",
                   "loc": "8:0-89"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\createHandlerBoundToURL.js",
-                  "module": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
-                  "moduleName": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
+                  "moduleIdentifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-precaching\\getCacheKeyForURL.js",
+                  "module": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
+                  "moduleName": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./utils/getOrCreatePrecacheController.js",
                   "loc": "8:0-89"
@@ -22244,9 +22244,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheFirst.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-strategies/CacheFirst.js",
+              "issuerName": "./node_modules/workbox-strategies/CacheOnly.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -22265,8 +22265,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheFirst.js",
-                  "name": "./node_modules/workbox-strategies/CacheFirst.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-strategies\\CacheOnly.js",
+                  "name": "./node_modules/workbox-strategies/CacheOnly.js"
                 }
               ],
               "failed": false,
@@ -22427,9 +22427,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\CacheExpiration.js",
+              "issuer": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-expiration/CacheExpiration.js",
+              "issuerName": "./node_modules/workbox-core/_private.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -22438,18 +22438,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\index.mjs",
-                  "name": "./node_modules/workbox-expiration/index.mjs"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\index.js",
-                  "name": "./node_modules/workbox-expiration/index.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-expiration\\CacheExpiration.js",
-                  "name": "./node_modules/workbox-expiration/CacheExpiration.js"
+                  "identifier": "C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\babel-loader\\lib\\index.js??ref--6-0!C:\\Users\\Fajar Ikhsan Maulana\\Desktop\\sub3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 }
               ],
               "failed": false,
